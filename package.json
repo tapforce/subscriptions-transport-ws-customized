@@ -6,7 +6,7 @@
   "browser": "dist/client.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/apollostack/subscriptions-transport-ws.git"
+    "url": "git+https://github.com/tapforce/subscriptions-transport-ws-customized.git"
   },
   "dependencies": {
     "backo2": "^1.0.2",
@@ -31,7 +31,7 @@
   "peerDependencies": {
     "graphql": ">=0.10.0",
     "ws": ">=6.0.0",
-    "@types/ws": ">=6.0.0",
+    "@types/ws": ">=6.0.0"
   },
   "devDependencies": {
     "@types/chai": "^4.0.0",
